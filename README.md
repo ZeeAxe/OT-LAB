@@ -1,4 +1,4 @@
-# SEC 524 — VirtualBox OT Forensics Lab
+# SEC 524  VirtualBox OT Forensics Lab
 
 **Experiment:** Reconstruct a controlled, simulated unauthorized Modbus/TCP holding-register change. All traffic is restricted to an isolated VirtualBox Internal Network. No real PLC, actuator, or plant is present.
 
